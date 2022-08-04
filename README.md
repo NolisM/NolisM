@@ -1,6 +1,6 @@
  ### 👋 Hola Soy Nolis Maldonado!
  --------------------------
- #### Soy Estudiante en Henry, realizando el curso de Developer Full Stack. actualmente realizo mi Proyecto Grupal Final. Encontraras en mi repo varios proyectos realizados.
+ #### Soy Developer Full Stack egresada del BootCamp de Soy Henry. actualmente curso un Bootcamp de SalesForce. Encontraras en mi repo varios proyectos realizados.
  --------------------
  Estas son mis skills
 - ⚛️ React_redux
