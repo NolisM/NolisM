@@ -2,11 +2,9 @@
 <h1 align="center">👋 Hola Soy Nolis Maldonado!</h1>
 
 
-<h3 align="center"> Soy Desarrolladora web full stack con mas de un año de experiencia. Apasionada por la Tecnología y en la constante busqueda del crecimiento en este gran mundo IT. Disfruto mucho de participar en equipos de desarrollo, poder transmitir mis conocimientos como asi tambien del conocimiento de cada uno de ellos.</h3>
+<h3 align="center"> Soy Desarrolladora web full stack con mas de un año de experiencia. Apasionada por la Tecnología y en la constante busqueda del crecimiento en este gran mundo IT. Disfruto mucho de participar en equipos de desarrollo, poder transmitir mis conocimientos como asi tambien absorver el conocimiento de cada uno de los integrantes.</h3>
 
 
-
-- 🌱 Actualmente aprendiendo **MongoDB, Mongoose, Typescript, Next.js** 
 - 💬 Con conocimientos en:
    - ⚛️ React_redux
    - ⚛️ Javascript
@@ -16,6 +14,8 @@
    - ⚛️ Node
    - ⚛️ Msql
    - ⚛️ Firebase
+
+  - 🌱 Actualmente aprendiendo **MongoDB, Mongoose, Typescript, Next.js** 
      
 
 <h3 align="left">Puedes buscarme tambien en:</h3>
