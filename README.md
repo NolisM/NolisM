@@ -2,26 +2,30 @@
 <h1 align="center">👋 Hola Soy Nolis Maldonado!</h1>
 
 
-<h3 align="center"> Soy Desarrolladora web full stack con mas de un año de experiencia. Apasionada por la Tecnología y en la constante busqueda del crecimiento en este gran mundo IT. Disfruto mucho de participar en equipos de desarrollo, poder transmitir mis conocimientos como asi tambien absorver el conocimiento de cada uno de los integrantes.</h3>
+<h3 align="center"> Soy Desarrolladora web full stack con mas de dos años de experiencia. Apasionada por la Tecnología y en la constante busqueda del crecimiento en este gran mundo IT. Disfruto mucho de participar en equipos de desarrollo, poder transmitir mis conocimientos como asi tambien absorver el conocimiento de cada uno de los integrantes.</h3>
 
 
 - 💬 Con conocimientos en:
-   - ⚛️ React_redux
+   - ⚛️ Reactjs
+   - ⚛️ Redux
+   - ⚛️ Nextjs
    - ⚛️ Javascript
+   - ⚛️ TypeScript 
    - ⚛️ Express
    - ⚛️ HTML
    - ⚛️ Css
    - ⚛️ Node
    - ⚛️ Msql
+   - ⚛️ MobgoDB
    - ⚛️ Firebase
 
-  - 🌱 Actualmente aprendiendo **MongoDB, Mongoose, Typescript, Next.js** 
+  - 🌱 Actualmente aprendiendo **Python - Flask** 
      
 
 <h3 align="left">Puedes buscarme tambien en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nolis-maldonado/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jose-eduardo-maldonado-sarmiento/" height="30" width="40" /> Linkedin</a>
-<a href="https://port-folio-nolism.vercel.app" target="_blank">💼 PortFolio</a>
+<a href="https://port-folio-gamma.vercel.app" target="_blank">💼 PortFolio</a>
 </p>
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
